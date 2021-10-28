@@ -4,7 +4,7 @@
 ### Estudiante de Primero de CFGS Desarrollo de Aplicaciones Multiplataforma 💻
 
 『❗』Muy buenas, mi nombre es ***Alejandro***. Y llevo un año estudiando un Ciclo Formativo de Grado Superior "***DAM***". 
-La **informática**, y concretamente la **programación**, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
+La ***informática***, y concretamente la ***programación***, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
 
 
 

@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/90842732/139232442-69ba9774-7e3b-4b2a-b193-43fe701cf70a.png)
 
-# <h1 align="center"> Alejandro Sáchez Monzón 💡
+# <h1 align="center"> <img width="200px" src="http://pa1.narvii.com/6414/f36030d05370766fd50f04fbcf9ab0ac34367b6c_hq.gif" /> <p> Alejandro Sánchez Monzón </p>
 ### Estudiante de Primero de CFGS Desarrollo de Aplicaciones Multiplataforma 💻
 
 『❗』Muy buenas, mi nombre es ***Alejandro***. Y llevo un año estudiando un Ciclo Formativo de Grado Superior "***DAM***". 

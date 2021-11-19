@@ -15,7 +15,7 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 >
 > 19 años.
 >
-> España.
+> Aranjuez, Madrid, España.
 >
 > [IES Luis Vives.][website]
 
@@ -39,6 +39,9 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
  
 <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /> &nbsp; *NodeJS.*
  
+ 
+ 
+## <h2 align="center"> ◅ Manejo de Softwares ▻  
 <img width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; *IntelliJ.*
  
 <img width="26px" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp; *GitKraken.* 

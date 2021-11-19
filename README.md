@@ -1,6 +1,8 @@
 <img width="100%" height="225" src="https://user-images.githubusercontent.com/90842732/139232442-69ba9774-7e3b-4b2a-b193-43fe701cf70a.png" />
 
----
+<br>
+<p align="center"><b> Visitas totales al perfil <b/></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AlejandroSanchezMonzon/count.svg" /></p> 
 
 # <h1 align="center"> <img width="200px" src="http://pa1.narvii.com/6414/f36030d05370766fd50f04fbcf9ab0ac34367b6c_hq.gif" /> <p> Alejandro Sánchez Monzón </p>
 ### Estudiante de Primero de CFGS Desarrollo de Aplicaciones Multiplataforma 💻

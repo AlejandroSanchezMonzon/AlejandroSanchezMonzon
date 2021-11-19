@@ -36,6 +36,16 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp; *SQL.* 
 
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp; *Git.*
+ 
+<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /> &nbsp; *NodeJS.*
+ 
+<img width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; *IntelliJ.*
+ 
+<img width="26px" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp; *GitKraken.* 
+ 
+<img width="26px" src="https://www.solucionex.com/sites/default/files/posts/imagen/vscode-800x450.png" /> &nbsp; *Visual Studio Code.*
+ 
+<img width="26px" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" /> &nbsp; *Eclipse IDE.*
 
 
 

@@ -26,11 +26,11 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 ## <h2 align="center"> ◅ Lenguajes en aprendizaje ▻
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp; *TypeScrypt.* 
 
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> &nbsp; *Java.* 
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> &nbsp; *Java (11).* 
 
-<img width="26px" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png" /> &nbsp; *HTML.* 
+<img width="26px" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png" /> &nbsp; *HTML (5).* 
 
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp; *CSS*
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp; *CSS.*
  
 
  
@@ -40,6 +40,8 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp; *Git.*
  
 <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /> &nbsp; *NodeJS.*
+ 
+<img width="26px" src="https://junit.org/junit4/images/junit5-banner.png" /> &nbsp; *JUnit 5.*
  
  
  
@@ -51,6 +53,10 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 <img width="26px" src="https://www.solucionex.com/sites/default/files/posts/imagen/vscode-800x450.png" /> &nbsp; *Visual Studio Code.*
  
 <img width="26px" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" /> &nbsp; *Eclipse IDE.*
+ 
+<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" /> &nbsp; *Oracle VM VirtualBox.*
+ 
+<img width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" /> &nbsp; *MySQL WorkBench 8.0 CE.*
 
 
 

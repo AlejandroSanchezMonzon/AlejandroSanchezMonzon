@@ -60,6 +60,15 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 
 
 
+## <h2 align="center"> ◅ Manejo de Sistemas Operativos ▻  
+<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png" /> &nbsp; *Windows.*
+
+<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" /> &nbsp; *Android.*
+ 
+<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /> &nbsp; *iOS.*
+ 
+ 
+ 
 ## <h2 align="center"> ◅ Contacto ▻
 > - <alejandrosanchezmonzon1@gmail.com>
 > 

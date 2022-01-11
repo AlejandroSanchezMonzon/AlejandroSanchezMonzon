@@ -34,10 +34,11 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
  
 <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp; *Kotlin.* 
  
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp; *SQL.* 
+ 
 
  
 ## <h2 align="center"> ◅ Tecnologías ▻ 
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp; *SQL.* 
 
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp; *Git.*
  

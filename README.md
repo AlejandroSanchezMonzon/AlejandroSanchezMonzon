@@ -46,6 +46,8 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
  
 <img width="26px" src="https://junit.org/junit4/images/junit5-banner.png" /> &nbsp; *JUnit 5.*
  
+<img width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp; *Maven.*
+ 
  
  
 ## <h2 align="center"> ◅ Manejo de Softwares ▻  

@@ -48,6 +48,8 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
  
 <img width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp; *Maven.*
  
+<img width="26px" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; *Gradle.* 
+ 
  
  
 ## <h2 align="center"> ◅ Manejo de Softwares ▻  

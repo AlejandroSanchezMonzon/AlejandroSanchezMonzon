@@ -46,6 +46,8 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
  
 <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /> &nbsp; *NodeJS.*
  
+<img width="26px" src="https://subjective.dev/posts/how-to-publish-to-npm/npm-logo-red.webp" /> &nbsp; *NPM.*
+ 
 <img width="26px" src="https://junit.org/junit4/images/junit5-banner.png" /> &nbsp; *JUnit 5.*
  
 <img width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp; *Maven.*

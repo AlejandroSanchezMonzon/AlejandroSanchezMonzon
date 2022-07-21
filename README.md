@@ -1,4 +1,4 @@
-<img width="100%" height="225" src="https://user-images.githubusercontent.com/90842732/139232442-69ba9774-7e3b-4b2a-b193-43fe701cf70a.png" />
+<img width="100%" height="225" src="https://i.imgur.com/niSSA8t.png" />
 
 <br>
 <p align="center"><b> Visitas totales al perfil <b/></p>
@@ -133,7 +133,7 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 </p>
 
 ---
-<img width="100%" height="225" src="https://user-images.githubusercontent.com/90842732/139232442-69ba9774-7e3b-4b2a-b193-43fe701cf70a.png" />
+<img width="100%" height="225" src="https://i.imgur.com/niSSA8t.png" />
 
 
 <!-- LINK -->

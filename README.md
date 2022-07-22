@@ -109,6 +109,8 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 > - <https://www.linkedin.com/in/alejandro-sánchez-monzón-017b88224/>
 >
 > - <https://alejandrosanchezmonzon.github.io/>
+>
+> - <https://g.dev/alejandrosanchezmonzon/>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/alesm_z?color=black&label=%40alesm_z&logo=twitter&logoColor=black&style=for-the-badge)
 

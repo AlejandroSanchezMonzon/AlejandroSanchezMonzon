@@ -8,9 +8,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=$+CODING;$+PROGRAMMING;$+CREATING;+DEVELOPING;+DAM&color=00FF27&center=true&width=500&height=50"></a>
 </p>
 
-# <h1 align="center"> <img width="200px" src="http://pa1.narvii.com/6414/f36030d05370766fd50f04fbcf9ab0ac34367b6c_hq.gif" /> <p> Alejandro Sánchez Monzón </p>
+# <h1 align="center"> <img width="200px" src="https://i1.wp.com/boostingout.com/wp-content/uploads/2020/02/BoostingOut-gif-example-1.gif?resize=1080%2C1168&ssl=1" /> <p> Alejandro Sánchez Monzón </p>
  
-### Estudiante de Primero de CFGS Desarrollo de Aplicaciones Multiplataforma 💻
+### Estudiante de Segundo de CFGS Desarrollo de Aplicaciones Multiplataforma 💻
 
 『❗』Muy buenas, mi nombre es ***Alejandro***. Y llevo un año estudiando un Ciclo Formativo de Grado Superior "***DAM***". 
 La ***informática***, y concretamente la ***programación***, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
@@ -31,7 +31,7 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 ## <h2 align="center"> ◅ Lenguajes en aprendizaje ▻
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp; *TypeScrypt.* 
 
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> &nbsp; *Java.* 
+<img width="26px" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp; *Java.* 
  
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; *JavaScript.* 
 
@@ -48,16 +48,16 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> &nbsp; *Lua.*
 
 <img width="26px" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp; *XML - (FXML).*
+
+<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; *Phyton.*
  
 
  
 ## <h2 align="center"> ◅ Tecnologías ▻ 
 
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp; *Git.*
+<img width="26px" src="https://nodd3r.com/media/blog/Git_Nodd3r.png" /> &nbsp; *Git.*
  
-<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /> &nbsp; *NodeJS.*
- 
-<img width="26px" src="https://subjective.dev/posts/how-to-publish-to-npm/npm-logo-red.webp" /> &nbsp; *NPM.*
+<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" /> &nbsp; *NPM.*
  
 <img width="26px" src="https://junit.org/junit4/images/junit5-banner.png" /> &nbsp; *JUnit 5.*
  
@@ -69,7 +69,7 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
  
  
  
-## <h2 align="center"> ◅ Manejo de Softwares ▻  
+## <h2 align="center"> ◅ Manejo de Entornos ▻  
 <img width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; *IntelliJ.*
  
 <img width="26px" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp; *GitKraken.* 
@@ -84,6 +84,7 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 
 <img width="26px" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" /> &nbsp; *Scene Builder.*
 
+<img width="26px" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp; *Android Studio.*
 
 
 ## <h2 align="center"> ◅ Manejo de Sistemas Operativos ▻  
@@ -124,13 +125,12 @@ La ***informática***, y concretamente la ***programación***, es un campo que m
 
 
 ## <h2 align="center"> ◅ GitHub Updates ▻
+<div align="center">
+
 ![GitHub followers](https://img.shields.io/github/followers/AlejandroSanchezMonzon?color=black&label=Seguidores&logo=GitHub&logoColor=black&style=for-the-badge)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/AlejandroSanchezMonzon?color=black&label=favoritos&logo=GitHub&logoColor=black&style=for-the-badge)
-
-![GitHub watchers](https://img.shields.io/github/watchers/AlejandroSanchezMonzon/AlejandroSanchezMonzon?color=black&label=Visitantes&logo=Github&logoColor=black&style=for-the-badge)
-
-![GitHub](https://img.shields.io/github/license/AlejandroSanchezMonzon/AlejandroSanchezMonzon?color=black&label=Licencia&logo=Github&logoColor=black&style=for-the-badge)
+</div>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake" />

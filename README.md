@@ -18,7 +18,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </p
 
 
-## <h2 align="center"> ◅ Datos Personales ▻
+## <h2 align="center"> 《   Datos Personales 》
 
 <div align="center">
 
@@ -32,7 +32,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div>
 
  
-## <h2 align="center"> ◅ Lenguajes en aprendizaje ▻
+## <h2 align="center"> 《  Lenguajes en aprendizaje 》
 
 <div align="center">
 <img width="26px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> &nbsp; 
@@ -48,7 +48,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; 
 </div>
  
-## <h2 align="center"> ◅ Tecnologías ▻ 
+## <h2 align="center"> 《  Tecnologías 》 
 
 <div align="center">
 <img width="26px" title="Git" src="https://nodd3r.com/media/blog/Git_Nodd3r.png" /> &nbsp; 
@@ -58,7 +58,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
 </div> 
  
-## <h2 align="center"> ◅ Manejo de Entornos ▻ 
+## <h2 align="center"> 《  Manejo de Entornos 》
 
 <div align="center">
 <img width="26px" title="IntelliJ" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; 
@@ -71,7 +71,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp;
 </div> 
 
-## <h2 align="center"> ◅ Manejo de Sistemas Operativos ▻  
+## <h2 align="center"> 《  Manejo de Sistemas Operativos 》 
 
 <div align="center">
 <img width="26px" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png" /> &nbsp; 
@@ -80,7 +80,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="Linux" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" /> &nbsp; 
 </div> 
  
-## <h2 align="center"> ◅ Métodos de Contacto ▻
+## <h2 align="center"> 《  Métodos de Contacto 》
 
 <div align="center">
 
@@ -99,7 +99,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 ![Twitter Follow](https://img.shields.io/twitter/follow/alesm_z?color=black&label=%40alesm_z&logo=twitter&logoColor=black&style=for-the-badge)
 </div>
 
-## <h2 align="center"> ◅ Títulos oficiales ▻
+## <h2 align="center"> 《  Títulos oficiales 》
   
 <div align="center">
   
@@ -112,7 +112,7 @@ Título ***Cambridge Certificate*** (Nivel B2).
 Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el emprendimiento.
 </div>
 
-## <h2 align="center"> ◅ GitHub Stats ▻
+## <h2 align="center"> 《  GitHub Stats 》
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/AlejandroSanchezMonzon?color=black&label=Seguidores&logo=GitHub&logoColor=black&style=for-the-badge)

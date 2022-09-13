@@ -99,15 +99,20 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 ![Twitter Follow](https://img.shields.io/twitter/follow/alesm_z?color=black&label=%40alesm_z&logo=twitter&logoColor=black&style=for-the-badge)
 </div>
 
-
 ## <h2 align="center"> ◅ Títulos oficiales ▻
-- Graduado en ***Educación Secundaria Obligatoria***.
-- Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
-- Título ***Cambridge Certificate*** (Nivel B2).
-- Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el emprendimiento.
+  
+<div align="center">
+  
+Graduado en ***Educación Secundaria Obligatoria***.
+>
+Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
+>
+Título ***Cambridge Certificate*** (Nivel B2).
+>
+Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el emprendimiento.
+</div>
 
-
-## <h2 align="center"> ◅ GitHub Updates ▻
+## <h2 align="center"> ◅ GitHub Stats ▻
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/AlejandroSanchezMonzon?color=black&label=Seguidores&logo=GitHub&logoColor=black&style=for-the-badge)

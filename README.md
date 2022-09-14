@@ -69,6 +69,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="MySQL WorkBench 8.0 CE" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" /> &nbsp; 
 <img width="26px" title="Scene Builder" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" /> &nbsp; 
 <img width="26px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp;
+<img width="26px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" /> &nbsp;
 </div> 
 
 ## <h2 align="center"> 《  Manejo de Sistemas Operativos 》 

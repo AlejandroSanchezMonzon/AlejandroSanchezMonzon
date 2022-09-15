@@ -94,9 +94,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 
 <div align="center">
 
-[Correo Personal][correo]
-> 
-[Correo Institucional][instituto]
+> alejandrosanchezmonzon1@gmail.com
+>
+> alejandro.sanchez@alumno.iesluisvives.org
 > 
 [Twitter][twitter]
 >

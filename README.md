@@ -56,6 +56,8 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="JUnit 5" src="https://junit.org/junit4/images/junit5-banner.png" /> &nbsp; 
 <img width="26px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp;
 <img width="26px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
+<img width="26px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp; 
+
 </div> 
  
 ## <h2 align="center"> 《  Manejo de Entornos 》

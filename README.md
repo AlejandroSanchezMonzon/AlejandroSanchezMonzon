@@ -8,17 +8,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=$+CODING;$+PROGRAMMING;$+CREATING;+DEVELOPING;+DAM&color=00FF27&center=true&width=500&height=50"></a>
 </p>
 
-# <h1 align="center"> <img width="200px" src="https://i1.wp.com/boostingout.com/wp-content/uploads/2020/02/BoostingOut-gif-example-1.gif?resize=1080%2C1168&ssl=1" /> <p> Alejandro Sánchez Monzón </p>
+<hr>
+
+<h1 align="center"> <img width="200px" src="https://i1.wp.com/boostingout.com/wp-content/uploads/2020/02/BoostingOut-gif-example-1.gif?resize=1080%2C1168&ssl=1" /> <p> Alejandro Sánchez Monzón </p></h1>
  
-### <h3 align="center"> Estudiante de Segundo de CFGS Desarrollo de Aplicaciones Multiplataforma 💻
+<h3 align="center"><b>Estudiante de Segundo de CFGS Desarrollo de Aplicaciones Multiplataforma 💻</b></h3>
 
 <p align="center">
 『❗』Hola, mi nombre es <b>Alejandro</b>. Y llevo un año estudiando un Ciclo Formativo de Grado Superior "<b>DAM</b>". 
 La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
-</p
+</p>
 
+<hr>
+<br>
 
-## <h2 align="center"> 《   Datos Personales 》
+<h2 align="center"> 《   Datos Personales 》</h2>
 
 <div align="center">
 
@@ -30,9 +34,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <br>
 💼 [IES Luis Vives.][website]
 </div>
-
+<br>
  
-## <h2 align="center"> 《  Lenguajes en aprendizaje 》
+<h2 align="center"> 《  Lenguajes en aprendizaje 》</h2>
 
 <div align="center">
 <img width="26px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> &nbsp; 
@@ -47,8 +51,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="XML/FXML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp; 
 <img width="26px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; 
 </div>
+<br>
  
-## <h2 align="center"> 《  Tecnologías 》 
+<h2 align="center"> 《  Tecnologías 》</h2>
 
 <div align="center">
 <img width="26px" title="Git" src="https://nodd3r.com/media/blog/Git_Nodd3r.png" /> &nbsp; 
@@ -57,10 +62,10 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp;
 <img width="26px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
 <img width="26px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp; 
-
 </div> 
+<br>
  
-## <h2 align="center"> 《  Manejo de Entornos 》
+<h2 align="center"> 《  Manejo de Entornos 》</h2>
 
 <div align="center">
 <img width="26px" title="IntelliJ" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; 
@@ -73,8 +78,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp;
 <img width="26px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" /> &nbsp;
 </div> 
+<br>
 
-## <h2 align="center"> 《  Manejo de Sistemas Operativos 》 
+<h2 align="center"> 《  Manejo de Sistemas Operativos 》</h2>
 
 <div align="center">
 <img width="26px" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png" /> &nbsp; 
@@ -82,8 +88,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="26px" title="iOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /> &nbsp;
 <img width="26px" title="Linux" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" /> &nbsp; 
 </div> 
+<br> 
  
-## <h2 align="center"> 《  Métodos de Contacto 》
+<h2 align="center"> 《  Métodos de Contacto 》</h2>
 
 <div align="center">
 
@@ -101,8 +108,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/alesm_z?color=black&label=%40alesm_z&logo=twitter&logoColor=black&style=for-the-badge)
 </div>
+<br>
 
-## <h2 align="center"> 《  Títulos oficiales 》
+<h2 align="center"> 《  Títulos oficiales 》</h2>
   
 <div align="center">
   
@@ -114,8 +122,10 @@ Título ***Cambridge Certificate*** (Nivel B2).
 >
 Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el emprendimiento.
 </div>
+<br>
 
-## <h2 align="center"> 《  GitHub Stats 》
+<h2 align="center"> 《  GitHub Stats 》</h2>
+
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/AlejandroSanchezMonzon?color=black&label=Seguidores&logo=GitHub&logoColor=black&style=for-the-badge)

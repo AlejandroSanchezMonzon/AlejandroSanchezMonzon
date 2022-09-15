@@ -53,7 +53,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div>
 <br>
  
-<h2 align="center"> 《  Tecnologías 》</h2>
+<h2 align="center"> 《  Tecnologías & Librerías 》</h2>
 
 <div align="center">
 <img width="26px" title="Git" src="https://nodd3r.com/media/blog/Git_Nodd3r.png" /> &nbsp; 

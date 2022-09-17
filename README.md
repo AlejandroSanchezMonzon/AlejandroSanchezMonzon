@@ -128,6 +128,10 @@ Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el em
 
 <div align="center">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroSanchezMonzon&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSanchezMonzon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub followers](https://img.shields.io/github/followers/AlejandroSanchezMonzon?color=black&label=Seguidores&logo=GitHub&logoColor=black&style=for-the-badge)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/AlejandroSanchezMonzon?color=black&label=favoritos&logo=GitHub&logoColor=black&style=for-the-badge)

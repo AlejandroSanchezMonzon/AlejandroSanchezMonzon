@@ -39,54 +39,54 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <h2 align="center"> 《  Lenguajes en aprendizaje 》</h2>
 
 <div align="center">
-<img width="26px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> &nbsp; 
-<img width="26px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp; 
-<img width="26px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; 
-<img width="26px" title="HTML" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png" /> &nbsp; 
-<img width="26px" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp; 
-<img width="26px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp; 
-<img width="26px" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp; 
-<img width="26px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /> &nbsp;  
-<img width="26px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> &nbsp; 
-<img width="26px" title="XML/FXML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp; 
-<img width="26px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; 
+<img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> &nbsp; 
+<img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp; 
+<img width="50px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; 
+<img width="50px" title="HTML" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png" /> &nbsp; 
+<img width="50px" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp; 
+<img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp; 
+<img width="50px" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp; 
+<img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /> &nbsp;  
+<img width="50px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> &nbsp; 
+<img width="50px" title="XML/FXML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp; 
+<img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; 
 </div>
 <br>
  
 <h2 align="center"> 《  Tecnologías & Librerías 》</h2>
 
 <div align="center">
-<img width="26px" title="Git" src="https://nodd3r.com/media/blog/Git_Nodd3r.png" /> &nbsp; 
-<img width="26px" title="npm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" /> &nbsp; 
-<img width="26px" title="JUnit 5" src="https://junit.org/junit4/images/junit5-banner.png" /> &nbsp; 
-<img width="26px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp;
-<img width="26px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
-<img width="26px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp; 
+<img width="50px" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" /> &nbsp; 
+<img width="50px" title="npm" src="https://www.pngrepo.com/png/331509/512/npm.png" /> &nbsp; 
+<img width="50px" title="JUnit 5" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" /> &nbsp; 
+<img width="50px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp;
+<img width="50px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
+<img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp; 
 </div> 
 <br>
  
 <h2 align="center"> 《  Manejo de Entornos 》</h2>
 
 <div align="center">
-<img width="26px" title="IntelliJ" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; 
-<img width="26px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp; 
-<img width="26px" title="Visual Studio Code" src="https://www.solucionex.com/sites/default/files/posts/imagen/vscode-800x450.png" /> &nbsp; 
-<img width="26px" title="Eclipse IDE" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" /> &nbsp; 
-<img width="26px" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" /> &nbsp; 
-<img width="26px" title="MySQL WorkBench 8.0 CE" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" /> &nbsp; 
-<img width="26px" title="Scene Builder" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" /> &nbsp; 
-<img width="26px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp;
-<img width="26px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" /> &nbsp;
+<img width="50px" title="IntelliJ" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; 
+<img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp; 
+<img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico" /> &nbsp; 
+<img width="50px" title="Eclipse IDE" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" /> &nbsp; 
+<img width="50px" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" /> &nbsp; 
+<img width="50px" title="MySQL WorkBench 8.0 CE" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" /> &nbsp; 
+<img width="50px" title="Scene Builder" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" /> &nbsp; 
+<img width="50px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp;
+<img width="50px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" /> &nbsp;
 </div> 
 <br>
 
 <h2 align="center"> 《  Manejo de Sistemas Operativos 》</h2>
 
 <div align="center">
-<img width="26px" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png" /> &nbsp; 
-<img width="26px" title="Android" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" /> &nbsp; 
-<img width="26px" title="iOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /> &nbsp;
-<img width="26px" title="Linux" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" /> &nbsp; 
+<img width="50px" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png" /> &nbsp; 
+<img width="50px" title="Android" src="https://upload.wikimedia.org/wikipedia/commons/4/41/APK_format_icon_%282014-2019%29.png" /> &nbsp; 
+<img width="50px" title="iOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /> &nbsp;
+<img width="50px" title="Linux" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" /> &nbsp; 
 </div> 
 <br> 
  
@@ -142,7 +142,7 @@ Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el em
 </p>
 
 ---
-<img width="100%" height="225" src="https://i.imgur.com/niSSA8t.png" />
+<img width="100%" height="225px" src="https://i.imgur.com/niSSA8t.png" />
 
 
 <!-- LINK -->

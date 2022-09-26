@@ -62,6 +62,8 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp;
 <img width="50px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
 <img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp; 
+<img width="50px" title="Java Swing" src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png" /> &nbsp; 
+<img width="50px" title="Java FX" src="https://static.wikia.nocookie.net/jfx/images/0/00/JavaFXIsland400x200.png/revision/latest?cb=20070917150529" /> &nbsp; 
 </div> 
 <br>
  

@@ -1,4 +1,4 @@
-<img width="100%" height="225" src="https://i.imgur.com/niSSA8t.png" />
+<img width="100%" src="https://i.imgur.com/DDJvz1t.png" />
 
 <br>
 <p align="center"><b> Visitas totales al perfil <b/></p>
@@ -144,7 +144,7 @@ Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el em
 </p>
 
 ---
-<img width="100%" height="225px" src="https://i.imgur.com/niSSA8t.png" />
+<img width="100%" src="https://i.imgur.com/DDJvz1t.png" />
 
 
 <!-- LINK -->

@@ -46,8 +46,6 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" /> &nbsp; 
 <img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp; 
 <img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png" /> &nbsp; 
-<img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /> &nbsp;
-<img width="50px" title="H2" src="https://dbdb.io/media/logos/h2-logo.svg" /> &nbsp;  
 <img width="50px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> &nbsp; 
 <img width="50px" title="XML/FXML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp; 
 <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; 
@@ -58,7 +56,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 
 <div align="center">
 <img width="50px" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" /> &nbsp; 
-<img width="50px" title="npm" src="https://www.pngrepo.com/png/331509/512/npm.png" /> &nbsp; 
+<img width="50px" title="npm" src="https://www.pngrepo.com/png/331509/512/npm.png" /> &nbsp;
+<img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /> &nbsp;
+<img width="50px" title="H2" src="https://dbdb.io/media/logos/h2-logo.svg" /> &nbsp;  
 <img width="50px" title="JUnit 5" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" /> &nbsp; 
 <img width="50px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp;
 <img width="50px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
@@ -81,6 +81,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Scene Builder" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" /> &nbsp; 
 <img width="50px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp;
 <img width="50px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" /> &nbsp;
+<img width="50px" title="Odoo" src="https://cdn.freebiesupply.com/logos/large/2x/odoo-logo-png-transparent.png" /> &nbsp;
 </div> 
 <br>
 

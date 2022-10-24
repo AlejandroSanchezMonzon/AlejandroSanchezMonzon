@@ -26,13 +26,13 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 
 <div align="center">
 
-🧠 Alejandro Sánchez Monzón.
-<br>
-📅 20 años.
-<br>
-📌 Aranjuez, Madrid, España.
-<br>
-💼 [IES Luis Vives.][website]
+>🧠 Alejandro Sánchez Monzón.
+>
+>📅 20 años.
+>
+>📌 Aranjuez, Madrid, España.
+>
+>💼 [IES Luis Vives.][website]
 </div>
 <br>
  
@@ -42,11 +42,12 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> &nbsp; 
 <img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp; 
 <img width="50px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; 
-<img width="50px" title="HTML" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png" /> &nbsp; 
-<img width="50px" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp; 
+<img width="50px" title="HTML" src="https://i.imgur.com/4Pfb5Jn.png" /> &nbsp; 
+<img width="50px" title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" /> &nbsp; 
 <img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp; 
-<img width="50px" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp; 
-<img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /> &nbsp;  
+<img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png" /> &nbsp; 
+<img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /> &nbsp;
+<img width="50px" title="H2" src="https://dbdb.io/media/logos/h2-logo.svg" /> &nbsp;  
 <img width="50px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> &nbsp; 
 <img width="50px" title="XML/FXML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp; 
 <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; 
@@ -71,7 +72,8 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 
 <div align="center">
 <img width="50px" title="IntelliJ" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; 
-<img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp; 
+<img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp;
+<img width="50px" title="Fork" src="https://i.imgur.com/lHqM6qT.png" /> &nbsp;
 <img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico" /> &nbsp; 
 <img width="50px" title="Eclipse IDE" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" /> &nbsp; 
 <img width="50px" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" /> &nbsp; 
@@ -87,7 +89,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <div align="center">
 <img width="50px" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png" /> &nbsp; 
 <img width="50px" title="Android" src="https://upload.wikimedia.org/wikipedia/commons/4/41/APK_format_icon_%282014-2019%29.png" /> &nbsp; 
-<img width="50px" title="iOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /> &nbsp;
+<img width="50px" title="iOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/488px-Apple_logo_black.svg.png" /> &nbsp;
 <img width="50px" title="Linux" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" /> &nbsp; 
 </div> 
 <br> 

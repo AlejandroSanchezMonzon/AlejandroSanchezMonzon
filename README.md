@@ -120,13 +120,15 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
   
 <div align="center">
   
-Graduado en ***Educación Secundaria Obligatoria***.
+- Graduado en ***Educación Secundaria Obligatoria***.
 >
-Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
+- Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
 >
-Título ***Cambridge Certificate*** (Nivel B2).
+- Título ***Cambridge First Certificate*** (Nivel B2).
 >
-Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el emprendimiento.
+- Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el emprendimiento.
+>
+- Diploma ***"Vives la prevención" - modalidad vídeo***, en [IES Luis Vives][website]
 </div>
 <br>
 

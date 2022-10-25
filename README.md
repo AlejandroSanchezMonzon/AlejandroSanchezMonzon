@@ -59,7 +59,8 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="npm" src="https://www.pngrepo.com/png/331509/512/npm.png" /> &nbsp;
 <img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /> &nbsp;
 <img width="50px" title="H2" src="https://dbdb.io/media/logos/h2-logo.svg" /> &nbsp;  
-<img width="50px" title="JUnit 5" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" /> &nbsp; 
+<img width="50px" title="JUnit 5" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" /> &nbsp; 
+<img width="50px" title="Mockito" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Mockito_Junit_Tutorial.png" /> &nbsp; 
 <img width="50px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp;
 <img width="50px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
 <img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp; 

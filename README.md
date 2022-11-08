@@ -44,14 +44,14 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; 
 <img width="50px" title="HTML" src="https://i.imgur.com/4Pfb5Jn.png" /> &nbsp; 
 <img width="50px" title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" /> &nbsp; 
-<img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp; 
+<img width="50px" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" /> &nbsp; 
 <img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png" /> &nbsp; 
 <img width="50px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> &nbsp; 
 <img width="50px" title="XML/FXML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp; 
 <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; 
 </div>
 <br>
- 
+
 <h2 align="center"> 《  Tecnologías & Librerías 》</h2>
 
 <div align="center">
@@ -66,9 +66,11 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp; 
 <img width="50px" title="Java Swing" src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png" /> &nbsp; 
 <img width="50px" title="Java FX" src="https://static.wikia.nocookie.net/jfx/images/0/00/JavaFXIsland400x200.png/revision/latest?cb=20070917150529" /> &nbsp; 
+<img width="50px" title="Hibernate JPA" src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" /> &nbsp; 
+<img width="50px" title="Exposed" src="https://i.imgur.com/5ImTuoT.png" /> &nbsp; 
 </div> 
 <br>
- 
+
 <h2 align="center"> 《  Manejo de Entornos 》</h2>
 
 <div align="center">

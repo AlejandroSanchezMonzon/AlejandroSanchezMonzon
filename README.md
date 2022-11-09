@@ -65,11 +65,12 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
 <img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp; 
 <img width="50px" title="Java Swing" src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png" /> &nbsp; 
+  <br>
 <img width="50px" title="Java FX" src="https://static.wikia.nocookie.net/jfx/images/0/00/JavaFXIsland400x200.png/revision/latest?cb=20070917150529" /> &nbsp; 
 <img width="50px" title="Hibernate JPA" src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" /> &nbsp; 
 <img width="50px" title="Exposed" src="https://i.imgur.com/5ImTuoT.png" /> &nbsp; 
 <img width="50px" title="Spring Data JPA" src="https://cdn-images-1.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" /> &nbsp;
-<img width="50px" title="Dagger" src="https://miro.medium.com/max/321/1*ZHDFHf2l1dh__D7gvyIT4w.png" /> &nbsp;
+<img width="50px" title="Dagger" src="https://cdn-icons-png.flaticon.com/512/1067/1067718.png" /> &nbsp;
 <img width="50px" title="Koin" src="https://insert-koin.io/img/koin_new_logo.png" /> &nbsp;
 <img width="50px" title="Project Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" /> &nbsp;
 </div> 
@@ -88,6 +89,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Scene Builder" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" /> &nbsp; 
 <img width="50px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp;
 <img width="50px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" /> &nbsp;
+  <br>
 <img width="50px" title="Odoo" src="https://cdn.freebiesupply.com/logos/large/2x/odoo-logo-png-transparent.png" /> &nbsp;
 </div> 
 <br>

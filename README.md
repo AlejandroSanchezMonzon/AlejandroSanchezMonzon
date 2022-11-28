@@ -73,6 +73,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Dagger" src="https://cdn-icons-png.flaticon.com/512/1067/1067718.png" /> &nbsp;
 <img width="50px" title="Koin" src="https://insert-koin.io/img/koin_new_logo.png" /> &nbsp;
 <img width="50px" title="Project Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" /> &nbsp;
+<img width="50px" title="Firebase" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png" /> &nbsp;
 </div> 
 <br>
 

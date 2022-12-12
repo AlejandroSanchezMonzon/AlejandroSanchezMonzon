@@ -75,7 +75,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Koin" src="https://insert-koin.io/img/koin_new_logo.png" /> &nbsp;
 <img width="50px" title="Project Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" /> &nbsp;
 <img width="50px" title="Firebase" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png" /> &nbsp;
-</div> 
+<img width="50px" title="KMongo" src="https://litote.org/kmongo/assets/images/kmongo.png" /> &nbsp;
+</div>
+
 <br>
 
 <h2 align="center"> 《  Manejo de Entornos 》</h2>

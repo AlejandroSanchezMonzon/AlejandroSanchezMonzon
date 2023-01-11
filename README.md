@@ -37,6 +37,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <br>
  
 ## `Lenguajes en aprendizaje` ##
+> **Warning** Algunos de los siguientes lenguajes son parte del plan académico y aún **NO** trabajo con ellos. 
 
 <div align="center">
 <img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt=""/> &nbsp; 
@@ -48,8 +49,11 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"  alt=""/> &nbsp; 
 <img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png"  alt=""/> &nbsp; 
 <img width="50px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"  alt=""/> &nbsp; 
-<img width="50px" title="XML/FXML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png"  alt=""/> &nbsp; 
-<img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  alt=""/> &nbsp; 
+<img width="50px" title="XML" src="https://cdn-icons-png.flaticon.com/512/187/187684.png"  alt=""/> &nbsp; 
+  <br>
+<img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  alt=""/> &nbsp;
+<img width="50px" title="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt=""/> &nbsp;
+<img width="50px" title="Unity" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt=""/> &nbsp;
 </div>
 <br>
 

@@ -112,22 +112,22 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Linux" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"  alt=""/> &nbsp; 
 </div> 
 <br> 
- 
+
 ## `Métodos de Contacto` ##
 
 <div align="justify">
 
-> alejandrosanchezmonzon1@gmail.com
+> <img width="15px" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt=""/> &nbsp; alejandrosanchezmonzon1@gmail.com
 >
-> alejandro.sanchez@alumno.iesluisvives.org
+><img width="15px" title="Outlook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt=""/> &nbsp; alejandro.sanchez@alumno.iesluisvives.org
 > 
-[Twitter][twitter]
+<img width="15px" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt=""/> &nbsp; [Twitter][twitter]
 >
-[LinkedIn][linkedin]
+<img width="15px" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt=""/> &nbsp; [LinkedIn][linkedin]
 >
-[Página Web][paginaweb]
+<img width="15px" title="Web" src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-trazo-de-icono-de-sitio-web-de-internet.png" alt=""/> &nbsp; [Página Web][paginaweb]
 >
-[Google Developer Profile][gdev]
+<img width="15px" title="Google Developer" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt=""/> &nbsp; [Google Developer Profile][gdev]
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/alesm_z?color=black&label=%40alesm_z&logo=twitter&logoColor=black&style=for-the-badge)
 </div>

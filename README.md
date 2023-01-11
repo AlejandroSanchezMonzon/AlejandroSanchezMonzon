@@ -79,6 +79,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"  alt=""/> &nbsp;
   <br>
 <img width="50px" title="Retrofit" src="https://img.stackshare.io/service/2856/retrofit-logo.png"  alt=""/> &nbsp;
+<img width="50px" title="JSON Serialization Libraries" src="https://cdn-icons-png.flaticon.com/512/136/136525.png"  alt=""/> &nbsp;
 </div>
 
 <br>

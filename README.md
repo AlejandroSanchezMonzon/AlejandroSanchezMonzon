@@ -41,6 +41,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  alt=""/> &nbsp; 
 <img width="50px" title="HTML" src="https://i.imgur.com/4Pfb5Jn.png"  alt=""/> &nbsp; 
 <img width="50px" title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"  alt=""/> &nbsp; 
+<img width="50px" title="Markdown" src="https://css-tricks.com/wp-content/uploads/2016/01/choose-markdown.jpg"  alt=""/> &nbsp;
 <img width="50px" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"  alt=""/> &nbsp; 
 <img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png"  alt=""/> &nbsp; 
 <img width="50px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"  alt=""/> &nbsp; 

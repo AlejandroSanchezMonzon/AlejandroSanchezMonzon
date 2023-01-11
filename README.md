@@ -1,31 +1,27 @@
 <img width="100%" src="https://i.imgur.com/DDJvz1t.png"  alt=""/>
 
-<br>
-<p align="center"><b> Visitas totales al perfil </b></p>
+<hr>
+<p align="center"><b><kbd>Visitas totales al perfil</kbd></b></p>
 <p align="center">   <img align="center" src="https://profile-counter.glitch.me/AlejandroSanchezMonzon/count.svg"  alt=""/></p> 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=$+CODING;$+PROGRAMMING;$+CREATING;+DEVELOPING;+DAM&color=00FF27&center=true&width=500&height=50" alt=""></a>
 </p>
-
-<hr>
-
-<h1 align="center"> <img width="200px" src="https://i1.wp.com/boostingout.com/wp-content/uploads/2020/02/BoostingOut-gif-example-1.gif?resize=1080%2C1168&ssl=1"  alt=""/> 
-<p> Alejandro Sánchez Monzón </p></h1>
  
-<h3 align="center"><b>Estudiante de Segundo de CFGS Desarrollo de Aplicaciones Multiplataforma 💻</b></h3>
+<h1 align="center"><p> Alejandro Sánchez Monzón </p></h1>
+<h3 align="justify"><b>Estudiante de Segundo de CFGS Desarrollo de Aplicaciones Multiplataforma 💻</b></h3>
 
-<p align="center">
+<p align="justify">
 『❗』Hola, mi nombre es <b>Alejandro</b>. Y llevo un año estudiando un Ciclo Formativo de Grado Superior "<b>DAM</b>". 
 La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
 </p>
 
-<hr>
+<p align="center"> <img width="200px" src="https://i1.wp.com/boostingout.com/wp-content/uploads/2020/02/BoostingOut-gif-example-1.gif?resize=1080%2C1168&ssl=1"  alt=""/>
 <br>
 
-<h2 align="center"> 《   Datos Personales 》</h2>
+## `Datos Personales` ##
 
-<div align="center">
+<div align="justify">
 
 >🧠 Alejandro Sánchez Monzón.
 >
@@ -37,7 +33,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div>
 <br>
  
-<h2 align="center"> 《  Lenguajes en aprendizaje 》</h2>
+## `Lenguajes en aprendizaje` ##
 
 <div align="center">
 <img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt=""/> &nbsp; 
@@ -53,7 +49,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div>
 <br>
 
-<h2 align="center"> 《  Tecnologías & Librerías 》</h2>
+## `Tecnologías & Librerías` ##
 
 <div align="center">
 <img width="50px" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"  alt=""/> &nbsp; 
@@ -84,7 +80,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 
 <br>
 
-<h2 align="center"> 《  Manejo de Entornos 》</h2>
+## `Manejo de Entornos` ##
 
 <div align="center">
 <img width="50px" title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"  alt=""/> &nbsp; 
@@ -106,7 +102,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div> 
 <br>
 
-<h2 align="center"> 《  Manejo de Sistemas Operativos 》</h2>
+## `Manejo de Sistemas Operativos` ##
 
 <div align="center">
 <img width="50px" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png"  alt=""/> &nbsp; 
@@ -116,9 +112,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div> 
 <br> 
  
-<h2 align="center"> 《  Métodos de Contacto 》</h2>
+## `Métodos de Contacto` ##
 
-<div align="center">
+<div align="justify">
 
 > alejandrosanchezmonzon1@gmail.com
 >
@@ -136,9 +132,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div>
 <br>
 
-<h2 align="center"> 《  Títulos oficiales 》</h2>
+## `Títulos oficiales` ##
   
-<div align="center">
+<div align="justify">
   
 - Graduado en ***Educación Secundaria Obligatoria***.
 >
@@ -152,7 +148,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div>
 <br>
 
-<h2 align="center"> 《  GitHub Stats 》</h2>
+## `GitHub Stats` ##
 
 <div align="center">
 
@@ -169,10 +165,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
----
-<img width="100%" src="https://i.imgur.com/DDJvz1t.png"  alt=""/>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bfbfbf&height=120&section=footer"/>
+</div>
+  
 <!-- LINK -->
 [website]: http://iesluisvives.es/
 [website2]: https://www.fundacionrepsol.com/es

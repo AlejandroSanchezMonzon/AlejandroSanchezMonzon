@@ -1,3 +1,6 @@
+> **Note** README en desarrollo contínuo...
+<br>
+
 <img width="100%" src="https://i.imgur.com/DDJvz1t.png"  alt=""/>
 
 <hr>
@@ -5,7 +8,7 @@
 <p align="center">   <img align="center" src="https://profile-counter.glitch.me/AlejandroSanchezMonzon/count.svg"  alt=""/></p> 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=$+CODING;$+PROGRAMMING;$+CREATING;+DEVELOPING;+DAM&color=00FF27&center=true&width=500&height=50" alt=""></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=$+CODING;$+TESTING;$+CREATING;$+SOFTWARE+DEVELOPING&color=00FF27&center=true&width=500&height=50" alt=""></a>
 </p>
  
 <h1 align="center"><p> Alejandro Sánchez Monzón </p></h1>

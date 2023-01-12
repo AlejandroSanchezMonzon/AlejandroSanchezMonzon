@@ -54,6 +54,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  alt=""/> &nbsp;
 <img width="50px" title="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt=""/> &nbsp;
 <img width="50px" title="Unity" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt=""/> &nbsp;
+<img width="50px" title="GraphQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/800px-GraphQL_Logo.svg.png" alt=""/> &nbsp;
 </div>
 <br>
 
@@ -84,6 +85,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
   <br>
 <img width="50px" title="Retrofit" src="https://img.stackshare.io/service/2856/retrofit-logo.png"  alt=""/> &nbsp;
 <img width="50px" title="JSON Serialization Libraries" src="https://cdn-icons-png.flaticon.com/512/136/136525.png"  alt=""/> &nbsp;
+<img width="50px" title="Apollo GraphQL" src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png"  alt=""/> &nbsp;
 </div>
 
 <br>

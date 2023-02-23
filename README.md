@@ -54,6 +54,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  alt=""/> &nbsp;
 <img width="50px" title="GraphQL" src="https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png" alt=""/> &nbsp;
 <img width="50px" title="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt=""/> &nbsp;
+<img width="50px" title="Dart" src="https://img.icons8.com/color/480/dart.png" alt=""/> &nbsp;
 <img width="50px" title="Unity" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt=""/> &nbsp;
 </div>
 <br>

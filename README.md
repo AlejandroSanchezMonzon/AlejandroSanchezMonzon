@@ -4,7 +4,7 @@
 <img width="100%" src="https://i.imgur.com/DDJvz1t.png"  alt=""/>
 
 <hr>
-<p align="center"><b><kbd>Visitas totales al perfil</kbd></b></p>
+<p align="center"><kbd>Visitas totales al perfil</kbd></p>
 <p align="center">   <img align="center" src="https://profile-counter.glitch.me/AlejandroSanchezMonzon/count.svg"  alt=""/></p> 
 
 <p align="center">
@@ -15,7 +15,7 @@
 <h3 align="justify"><b>Estudiante de Segundo de CFGS Desarrollo de Aplicaciones Multiplataforma 💻</b></h3>
 
 <p align="justify">
-『❗』Hola, mi nombre es <b>Alejandro</b>. Y llevo un año estudiando un Ciclo Formativo de Grado Superior "<b>DAM</b>". 
+『❗』Hola, mi nombre es <b>Alejandro</b>. Y este es mi ultimo año estudiando el Ciclo Formativo de Grado Superior "<b>DAM</b>". 
 La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
 </p>
 
@@ -33,6 +33,13 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 >📌 Aranjuez, Madrid, España.
 >
 >💼 [IES Luis Vives.][website]
+</div>
+<br>
+
+## `Experiencia` ##
+
+<div align="justify">
+<img width="25px" title="TEA Ediciones" src="https://yt3.googleusercontent.com/ytc/AL5GRJU8U420xTkS25MJGJ0ZVzb72CQncZ4udr4m4C3X4g=s900-c-k-c0x00ffffff-no-rj" alt=""/> &nbsp; <b>Hogrefe TEA Ediciones</b> <kbd>Intern Developer</kbd>
 </div>
 <br>
  
@@ -53,7 +60,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
   <br>
 <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  alt=""/> &nbsp;
 <img width="50px" title="Dart" src="https://img.icons8.com/color/480/dart.png" alt=""/> &nbsp;
-<img width="50px" title="Unity" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt=""/> &nbsp;
+<img width="50px" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt=""/> &nbsp;
 </div>
 <br>
 
@@ -86,6 +93,8 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Ktor" src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4"  alt=""/> &nbsp;
 <img width="50px" title="JSON Serialization Libraries" src="https://cdn-icons-png.flaticon.com/512/136/136525.png"  alt=""/> &nbsp;
 <img width="50px" title="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt=""/> &nbsp;
+<img width="50px" title="NodeJS" src="https://midu.dev/images/tags/node.png" alt=""/> &nbsp;
+<img width="50px" title="NPM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt=""/> &nbsp;
 </div>
 
 <br>
@@ -97,18 +106,20 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png"  alt=""/> &nbsp;
 <img width="50px" title="Fork" src="https://i.imgur.com/lHqM6qT.png"  alt=""/> &nbsp;
 <img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico"  alt=""/> &nbsp; 
+<img width="50px" title="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"  alt=""/> &nbsp; 
 <img width="50px" title="Eclipse IDE" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"  alt=""/> &nbsp; 
 <img width="50px" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"  alt=""/> &nbsp; 
 <img width="50px" title="MySQL WorkBench 8.0 CE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/2048px-Antu_mysql-workbench.svg.png"  alt=""/> &nbsp; 
 <img width="50px" title="Scene Builder" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1"  alt=""/> &nbsp; 
+ <br>
 <img width="50px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png"  alt=""/> &nbsp;
 <img width="50px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4"  alt=""/> &nbsp;
-  <br>
 <img width="50px" title="Odoo" src="https://cdn.freebiesupply.com/logos/large/2x/odoo-logo-png-transparent.png"  alt=""/> &nbsp;
 <img width="50px" title="Office 365" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"  alt=""/> &nbsp;
 <img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"  alt=""/> &nbsp;
 <img width="50px" height="50px" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"  alt=""/> &nbsp;
 <img width="50px" height="50px" title="Postman" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"  alt=""/> &nbsp;
+<img width="50px" title="Unity" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt=""/> &nbsp;
 </div> 
 <br>
 

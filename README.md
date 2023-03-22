@@ -19,6 +19,8 @@
 La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
 </p>
 
+> **Warning** Cabe destacar que una persona nunca termina de conocer todas las tecnologías y lenguajes que maneja, es por ello que este README es una guía de conceptos y bases que conozco y con los que he trabajado en mayor o menor medida a lolargo de mi recorrido académico y profesional. 
+
 <p align="center"> <img width="200px" src="https://i1.wp.com/boostingout.com/wp-content/uploads/2020/02/BoostingOut-gif-example-1.gif?resize=1080%2C1168&ssl=1"  alt=""/>
 <br>
 
@@ -39,12 +41,11 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 ## `Experiencia` ##
 
 <div align="justify">
-<img width="25px" title="TEA Ediciones" src="https://yt3.googleusercontent.com/ytc/AL5GRJU8U420xTkS25MJGJ0ZVzb72CQncZ4udr4m4C3X4g=s900-c-k-c0x00ffffff-no-rj" alt=""/> &nbsp; <b>Hogrefe TEA Ediciones</b> <kbd>Intern Developer</kbd>
+<img width="50px" title="TEA Ediciones" src="http://www.teaediciones.net/portal/recursos/Imagenes/Logos/logo_TEA_acceso.png" alt=""/><b>Hogrefe TEA Ediciones</b> <kbd>Intern Developer</kbd>
 </div>
 <br>
  
 ## `Lenguajes en aprendizaje` ##
-> **Warning** Algunos de los siguientes lenguajes son parte del plan académico y aún **NO** trabajo con ellos. 
 
 <div align="center">
 <img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt=""/> &nbsp; 

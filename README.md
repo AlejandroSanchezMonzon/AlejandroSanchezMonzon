@@ -166,7 +166,9 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 >
 - Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el emprendimiento.
 >
-- Diploma ***"Vives la prevención" - modalidad vídeo***, en [IES Luis Vives][website]
+- Diploma ***"Vives la prevención" - modalidad vídeo***, en [IES Luis Vives][website].
+>
+- Certificados proporcionados por ***[OpenWebinars][openwebinars]*** y ***[Open Bootcamp][openbootcamp]*** sobre diferentes lenguajes y tecnologías (listado en mi [LinkedIn][linkedin]).
 </div>
 <br>
 
@@ -199,3 +201,5 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 [linkedin]: https://www.linkedin.com/in/alejandro-sánchez-monzón-017b88224
 [paginaweb]: https://alejandrosanchezmonzon.github.io
 [gdev]: https://g.dev/alejandrosanchezmonzon
+[openwebinars]: https://openwebinars.net
+[openbootcamp]: https://open-bootcamp.com/

@@ -169,6 +169,8 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 - Diploma ***"Vives la prevención" - modalidad vídeo***, en [IES Luis Vives][website].
 >
 - Certificados proporcionados por ***[OpenWebinars][openwebinars]*** y ***[Open Bootcamp][openbootcamp]*** sobre diferentes lenguajes y tecnologías (listado en mi [LinkedIn][linkedin]).
+>
+- Certificado de Desarrollador Backend en Kotlin expirado por [JetBrains][jetbrains].
 </div>
 <br>
 
@@ -203,3 +205,4 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 [gdev]: https://g.dev/alejandrosanchezmonzon
 [openwebinars]: https://openwebinars.net
 [openbootcamp]: https://open-bootcamp.com/
+[jetbrains]: https://www.jetbrains.com/company/partners/kotlin/

@@ -34,7 +34,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 >
 >📌 Aranjuez, Madrid, España.
 >
->💼 [IES Luis Vives.][website]
+>💼 [Hogrefe TEA Ediciones][website]
 </div>
 <br>
 
@@ -116,10 +116,10 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="50px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png"  alt=""/> &nbsp;
 <img width="50px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4"  alt=""/> &nbsp;
 <img width="50px" title="Odoo" src="https://cdn.freebiesupply.com/logos/large/2x/odoo-logo-png-transparent.png"  alt=""/> &nbsp;
-<img width="50px" title="Office 365" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"  alt=""/> &nbsp;
+<img width="50px" title="Office 365" src="https://www.goyasoluciones.com/wp-content/uploads/2018/09/office365.png"  alt=""/> &nbsp;
 <img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"  alt=""/> &nbsp;
 <img width="50px" height="50px" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"  alt=""/> &nbsp;
-<img width="50px" height="50px" title="Postman" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"  alt=""/> &nbsp;
+<img width="50px" height="50px" title="Postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg"  alt=""/> &nbsp;
 <img width="50px" title="Unity" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt=""/> &nbsp;
 </div> 
 <br>
@@ -142,7 +142,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 >
 ><img width="15px" title="Outlook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt=""/> &nbsp; alejandro.sanchez@alumno.iesluisvives.org
 > 
-<img width="15px" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt=""/> &nbsp; [Twitter][twitter]
+<img width="15px" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" alt=""/> &nbsp; [Twitter][twitter]
 >
 <img width="15px" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt=""/> &nbsp; [LinkedIn][linkedin]
 >
@@ -195,7 +195,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div>
   
 <!-- LINK -->
-[website]: http://iesluisvives.es/
+[website]: https://web.teaediciones.com/Inicio.aspx
 [website2]: https://www.fundacionrepsol.com/es
 [correo]: alejandrosanchezmonzon1@gmail.com
 [instituto]: alejandro.sanchez@alumno.iesluisvives.org

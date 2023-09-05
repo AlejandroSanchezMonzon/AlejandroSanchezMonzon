@@ -1,9 +1,10 @@
-> **Note** README en desarrollo contínuo...
+> README en desarrollo contínuo...
 <br>
 
 <img width="100%" src="https://i.imgur.com/DDJvz1t.png"  alt=""/>
 
-<hr>
+---
+
 <p align="center"><kbd>Visitas totales al perfil</kbd></p>
 <p align="center">   <img align="center" src="https://profile-counter.glitch.me/AlejandroSanchezMonzon/count.svg"  alt=""/></p> 
 
@@ -11,42 +12,35 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=$+BACKEND;$+FRONTEND;$+TESTING;$+SOFTWARE+DEVELOPING&color=00FF27&center=true&width=500&height=50" alt=""></a>
 </p>
  
-<h1 align="center"><p> Alejandro Sánchez Monzón </p></h1>
-<h3 align="justify"><b>Estudiante de Segundo de CFGS Desarrollo de Aplicaciones Multiplataforma 💻</b></h3>
+# Alejandro Sánchez Monzón
+### Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 💻
 
-<p align="justify">
-『❗』Hola, mi nombre es <b>Alejandro</b>. Y este es mi ultimo año estudiando el Ciclo Formativo de Grado Superior "<b>DAM</b>". 
-La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
-</p>
+『❗』Hola, mi nombre es **Alejandro**. Actualmente me encuentro estudiando **Análisis de Datos y Procesos**, dentro del programa [BIGDATA+][bigdata], de la [Cámara de Comercio Alemana para España][camara]. 
 
-> **Warning** Cabe destacar que una persona nunca termina de conocer todas las tecnologías y lenguajes que maneja, es por ello que este README es una guía de conceptos y bases que conozco y con los que he trabajado en mayor o menor medida a lolargo de mi recorrido académico y profesional. 
+La **informática**, y concretamente la **programación**, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
+
+> Cabe destacar que una persona nunca termina de conocer todas las tecnologías y lenguajes que maneja, es por ello que este README es una guía de conceptos y bases que conozco y con los que he trabajado en mayor o menor medida a lo largo de mi recorrido académico y profesional. 
 
 <p align="center"> <img width="200px" src="https://i1.wp.com/boostingout.com/wp-content/uploads/2020/02/BoostingOut-gif-example-1.gif?resize=1080%2C1168&ssl=1"  alt=""/>
 <br>
 
-## `Datos Personales` ##
-
-<div align="justify">
-
+## `Datos Personales`
 >🧠 Alejandro Sánchez Monzón.
 >
 >📅 20 años.
 >
 >📌 Aranjuez, Madrid, España.
 >
+>🏫 [CES Juan Pablo II][curso]
+>
 >💼 [Hogrefe TEA Ediciones][website]
-</div>
 <br>
 
-## `Experiencia` ##
-
-<div align="justify">
-<img width="50px" title="TEA Ediciones" src="http://www.teaediciones.net/portal/recursos/Imagenes/Logos/logo_TEA_acceso.png" alt=""/><b>Hogrefe TEA Ediciones</b> <kbd>Intern Developer</kbd>
-</div>
-<br>
+## `Experiencia`
+<img width="50px" title="TEA Ediciones" src="http://www.teaediciones.net/portal/recursos/Imagenes/Logos/logo_TEA_acceso.png" alt=""/><b>Hogrefe TEA Ediciones</b> <kbd>Becario en Área de Desarrollo Web</kbd>
+<br><br>
  
-## `Lenguajes en aprendizaje` ##
-
+## `Lenguajes en aprendizaje`
 <div align="center">
 <img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt=""/> &nbsp; 
 <img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png"  alt=""/> &nbsp; 
@@ -100,8 +94,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 
 <br>
 
-## `Manejo de Entornos` ##
-
+## `Manejo de Entornos`
 <div align="center">
 <img width="50px" title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"  alt=""/> &nbsp; 
 <img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png"  alt=""/> &nbsp;
@@ -124,8 +117,7 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div> 
 <br>
 
-## `Manejo de Sistemas Operativos` ##
-
+## `Manejo de Sistemas Operativos`
 <div align="center">
 <img width="50px" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png"  alt=""/> &nbsp; 
 <img width="50px" title="Android" src="https://upload.wikimedia.org/wikipedia/commons/4/41/APK_format_icon_%282014-2019%29.png"  alt=""/> &nbsp; 
@@ -134,13 +126,10 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 </div> 
 <br> 
 
-## `Métodos de Contacto` ##
-
-<div align="justify">
-
+## `Métodos de Contacto`
 > <img width="15px" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt=""/> &nbsp; alejandrosanchezmonzon1@gmail.com
 >
-><img width="15px" title="Outlook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt=""/> &nbsp; alejandro.sanchez@alumno.iesluisvives.org
+> <img width="15px" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt=""/> &nbsp; alejandro.sanchezm@cesjuanpablosegundo.es
 > 
 <img width="15px" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" alt=""/> &nbsp; [Twitter][twitter]
 >
@@ -151,16 +140,14 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 <img width="15px" title="Google Developer" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt=""/> &nbsp; [Google Developer Profile][gdev]
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/alesm_z?color=black&label=%40alesm_z&logo=twitter&logoColor=black&style=for-the-badge)
-</div>
 <br>
 
-## `Títulos oficiales` ##
-  
-<div align="justify">
-  
+## `Títulos oficiales`
 - Graduado en ***Educación Secundaria Obligatoria***.
 >
 - Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
+>
+- Graduado en ***Desarrollo de Aplicaciones Multiplataforma***, en [IES Luis Vives][website].
 >
 - Título ***Cambridge First Certificate*** (Nivel B2).
 >
@@ -171,7 +158,6 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 - Certificados proporcionados por ***[OpenWebinars][openwebinars]*** y ***[Open Bootcamp][openbootcamp]*** sobre diferentes lenguajes y tecnologías (listado en mi [LinkedIn][linkedin]).
 >
 - Certificado de Desarrollador Backend en Kotlin expirado por [JetBrains][jetbrains].
-</div>
 <br>
 
 ## `GitHub Stats` ##
@@ -198,7 +184,10 @@ La <b>informática</b>, y concretamente la <b>programación</b>, es un campo que
 [website]: https://web.teaediciones.com/Inicio.aspx
 [website2]: https://www.fundacionrepsol.com/es
 [correo]: alejandrosanchezmonzon1@gmail.com
+[bigdata]: https://www.ahk.es/es/servicios/formacion/proyecto-big-data-programa-dual-analisis-de-datos-y-procesos/proyecto-big-data-candidatos
+[camara]: https://www.ahk.es/es/
 [instituto]: alejandro.sanchez@alumno.iesluisvives.org
+[curso]: https://www.cesjuanpablosegundo.es/
 [twitter]: https://twitter.com/alesm_z
 [linkedin]: https://www.linkedin.com/in/alejandro-sánchez-monzón-017b88224
 [paginaweb]: https://alejandrosanchezmonzon.github.io

@@ -1,4 +1,5 @@
-> README en desarrollo contínuo...
+> [!NOTE]
+>  README en desarrollo contínuo...
 <br>
 
 <img width="100%" src="https://i.imgur.com/DDJvz1t.png"  alt=""/>
@@ -19,6 +20,7 @@
 
 La **informática**, y concretamente la **programación**, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
 
+> [!IMPORTANT]
 > Cabe destacar que una persona nunca termina de conocer todas las tecnologías y lenguajes que maneja, es por ello que este README es una guía de conceptos y bases que conozco y con los que he trabajado en mayor o menor medida a lo largo de mi recorrido académico y profesional. 
 
 <p align="center"> <img width="200px" src="https://i1.wp.com/boostingout.com/wp-content/uploads/2020/02/BoostingOut-gif-example-1.gif?resize=1080%2C1168&ssl=1"  alt=""/>
@@ -37,83 +39,76 @@ La **informática**, y concretamente la **programación**, es un campo que me ap
 <br>
 
 ## `Experiencia`
-<img width="50px" title="TEA Ediciones" src="http://www.teaediciones.net/portal/recursos/Imagenes/Logos/logo_TEA_acceso.png" alt=""/><b>Hogrefe TEA Ediciones</b> <kbd>Becario en Área de Desarrollo Web</kbd>
+<img width="50px" title="TEA Ediciones" src="http://www.teaediciones.net/portal/recursos/Imagenes/Logos/logo_TEA_acceso.png" alt="logo-tea"/><b>Becario de IT</b> <kbd>Hogrefe TEA Ediciones</kbd>
 <br><br>
  
 ## `Lenguajes en aprendizaje`
 <div align="center">
 <img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt=""/> &nbsp; 
-<img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png"  alt=""/> &nbsp; 
-<img width="50px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  alt=""/> &nbsp; 
-<img width="50px" title="HTML" src="https://i.imgur.com/4Pfb5Jn.png"  alt=""/> &nbsp; 
-<img width="50px" title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"  alt=""/> &nbsp; 
-<img width="50px" title="Markdown" src="https://css-tricks.com/wp-content/uploads/2016/01/choose-markdown.jpg"  alt=""/> &nbsp;
-<img width="50px" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"  alt=""/> &nbsp; 
-<img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png"  alt=""/> &nbsp; 
-<img width="50px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"  alt=""/> &nbsp; 
-<img width="50px" title="XML" src="https://cdn-icons-png.flaticon.com/512/187/187684.png"  alt=""/> &nbsp; 
-  <br>
-<img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  alt=""/> &nbsp;
+<img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" alt=""/> &nbsp; 
+<img width="50px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt=""/> &nbsp; 
+<img width="50px" title="HTML" src="https://i.imgur.com/4Pfb5Jn.png" alt=""/> &nbsp; 
+<img width="50px" title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt=""/> &nbsp; 
+<img width="50px" title="Markdown" src="https://css-tricks.com/wp-content/uploads/2016/01/choose-markdown.jpg" alt=""/> &nbsp;
+<img width="50px" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt=""/> &nbsp; 
+<img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png" alt=""/> &nbsp; 
+<img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt=""/> &nbsp;
 <img width="50px" title="Dart" src="https://img.icons8.com/color/480/dart.png" alt=""/> &nbsp;
-<img width="50px" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt=""/> &nbsp;
 </div>
 <br>
 
 ## `Tecnologías & Librerías` ##
 
 <div align="center">
-<img width="50px" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"  alt=""/> &nbsp; 
-<img width="50px" title="npm" src="https://www.pngrepo.com/png/331509/512/npm.png"  alt=""/> &nbsp;
-<img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"  alt=""/> &nbsp;
-<img width="50px" title="H2" src="https://dbdb.io/media/logos/h2-logo.svg"  alt=""/> &nbsp;
-<img width="50px" title="MongoDB" src="https://www.axonius.com/hubfs/mongodb_adapter.png"  alt=""/> &nbsp;
-<img width="50px" title="KMongo" src="https://litote.org/kmongo/assets/images/kmongo.png"  alt=""/> &nbsp;
+<img width="50px" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt=""/> &nbsp; 
+<img width="50px" title="npm" src="https://www.pngrepo.com/png/331509/512/npm.png" alt=""/> &nbsp;
+<img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt=""/> &nbsp;
+<img width="50px" title="H2" src="https://dbdb.io/media/logos/h2-logo.svg" alt=""/> &nbsp;
+<img width="50px" title="MongoDB" src="https://www.axonius.com/hubfs/mongodb_adapter.png" alt=""/> &nbsp;
+<img width="50px" title="KMongo" src="https://litote.org/kmongo/assets/images/kmongo.png" alt=""/> &nbsp;
+<img width="50px" title="Microsoft Server SQL" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png" alt=""/> &nbsp;
 <img width="50px" title="JUnit 5" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67"  alt=""/> &nbsp; 
-<img width="50px" title="Mockito" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Mockito_Junit_Tutorial.png"  alt=""/> &nbsp; 
-<img width="50px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"  alt=""/> &nbsp;
-<img width="50px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png"  alt=""/> &nbsp; 
-  <br>
-<img width="50px" title="Java Swing" src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png"  alt=""/> &nbsp; 
-<img width="50px" title="Java FX" src="https://static.wikia.nocookie.net/jfx/images/0/00/JavaFXIsland400x200.png/revision/latest?cb=20070917150529"  alt=""/> &nbsp; 
-<img width="50px" title="Hibernate JPA" src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png"  alt=""/> &nbsp; 
-<img width="50px" title="Exposed" src="https://i.imgur.com/5ImTuoT.png"  alt=""/> &nbsp; 
-<img width="50px" title="Spring Data JPA" src="https://cdn-images-1.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png"  alt=""/> &nbsp;
-<img width="50px" title="Dagger" src="https://cdn-icons-png.flaticon.com/512/1067/1067718.png"  alt=""/> &nbsp;
-<img width="50px" title="Koin" src="https://insert-koin.io/img/koin_new_logo.png"  alt=""/> &nbsp;
-<img width="50px" title="Project Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4"  alt=""/> &nbsp;
-<img width="50px" title="Firebase" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png"   alt=""/> &nbsp;
-<img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"  alt=""/> &nbsp;
-  <br>
-<img width="50px" title="Retrofit" src="https://img.stackshare.io/service/2856/retrofit-logo.png"  alt=""/> &nbsp;
-<img width="50px" title="Ktor" src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4"  alt=""/> &nbsp;
-<img width="50px" title="JSON Serialization Libraries" src="https://cdn-icons-png.flaticon.com/512/136/136525.png"  alt=""/> &nbsp;
+<img width="50px" title="Mockito" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Mockito_Junit_Tutorial.png" alt=""/> &nbsp; 
+<img width="50px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt=""/> &nbsp;
+  <br><br>
+<img width="50px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" alt=""/> &nbsp; 
+<img width="50px" title="Java Swing" src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png" alt=""/> &nbsp; 
+<img width="50px" title="Java FX" src="https://static.wikia.nocookie.net/jfx/images/0/00/JavaFXIsland400x200.png/revision/latest?cb=20070917150529" alt=""/> &nbsp; 
+<img width="50px" title="Hibernate JPA" src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" alt=""/> &nbsp; 
+<img width="50px" title="Exposed" src="https://i.imgur.com/5ImTuoT.png" alt=""/> &nbsp; 
+<img width="50px" title="Spring Data JPA" src="https://cdn-images-1.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" alt=""/> &nbsp;
+<img width="50px" title="Dagger" src="https://cdn-icons-png.flaticon.com/512/1067/1067718.png" alt=""/> &nbsp;
+<img width="50px" title="Koin" src="https://insert-koin.io/img/koin_new_logo.png" alt=""/> &nbsp;
+<img width="50px" title="Project Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" alt=""/> &nbsp;
+<img width="50px" title="Firebase" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png" alt=""/> &nbsp;
+  <br><br>
+<img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt=""/> &nbsp;
+<img width="50px" title="Retrofit" src="https://img.stackshare.io/service/2856/retrofit-logo.png" alt=""/> &nbsp;
+<img width="50px" title="Ktor" src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4" alt=""/> &nbsp;
+<img width="50px" title="JSON Serialization Libraries" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt=""/> &nbsp;
 <img width="50px" title="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt=""/> &nbsp;
 <img width="50px" title="NodeJS" src="https://midu.dev/images/tags/node.png" alt=""/> &nbsp;
-<img width="50px" title="NPM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt=""/> &nbsp;
+<img width="50px" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt=""/> &nbsp;
 </div>
 
 <br>
 
 ## `Manejo de Entornos`
 <div align="center">
-<img width="50px" title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"  alt=""/> &nbsp; 
-<img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png"  alt=""/> &nbsp;
-<img width="50px" title="Fork" src="https://i.imgur.com/lHqM6qT.png"  alt=""/> &nbsp;
-<img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico"  alt=""/> &nbsp; 
-<img width="50px" title="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"  alt=""/> &nbsp; 
-<img width="50px" title="Eclipse IDE" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"  alt=""/> &nbsp; 
-<img width="50px" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"  alt=""/> &nbsp; 
-<img width="50px" title="MySQL WorkBench 8.0 CE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/2048px-Antu_mysql-workbench.svg.png"  alt=""/> &nbsp; 
-<img width="50px" title="Scene Builder" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1"  alt=""/> &nbsp; 
- <br>
-<img width="50px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png"  alt=""/> &nbsp;
-<img width="50px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4"  alt=""/> &nbsp;
-<img width="50px" title="Odoo" src="https://cdn.freebiesupply.com/logos/large/2x/odoo-logo-png-transparent.png"  alt=""/> &nbsp;
-<img width="50px" title="Office 365" src="https://www.goyasoluciones.com/wp-content/uploads/2018/09/office365.png"  alt=""/> &nbsp;
-<img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"  alt=""/> &nbsp;
-<img width="50px" height="50px" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"  alt=""/> &nbsp;
-<img width="50px" height="50px" title="Postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg"  alt=""/> &nbsp;
-<img width="50px" title="Unity" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt=""/> &nbsp;
+<img width="50px" title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt=""/> &nbsp; 
+<img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" alt=""/> &nbsp;
+<img width="50px" title="Fork" src="https://i.imgur.com/lHqM6qT.png" alt=""/> &nbsp;
+<img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico" alt=""/> &nbsp; 
+<img width="50px" title="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt=""/> &nbsp; 
+<img width="50px" title="Eclipse IDE" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt=""/> &nbsp; 
+<img width="50px" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt=""/> &nbsp; 
+<img width="50px" title="MySQL WorkBench 8.0 CE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/2048px-Antu_mysql-workbench.svg.png" alt=""/> &nbsp;
+<img width="50px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" alt=""/> &nbsp;
+<img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt=""/> &nbsp;
+  <br><br>
+<img width="50px" height="50px" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt=""/> &nbsp;
+<img width="50px" height="50px" title="Postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt=""/> &nbsp;
+<img width="50px" height="50px" title="AWS" src="https://aslan.es/wp-content/uploads/2020/02/AmazonAWS.png" alt=""/> &nbsp;
 </div> 
 <br>
 

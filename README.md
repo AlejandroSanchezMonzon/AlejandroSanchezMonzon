@@ -2,7 +2,7 @@
 >  README en desarrollo contínuo...
 <br>
 
-<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQECctJJdEISlg/profile-displaybackgroundimage-shrink_350_1400/0/1702585841085?e=1707955200&v=beta&t=41G6BqGE-PpXbNLGTmWt3qpwLEGIYPEGb0Hn8padsKU"  alt=""/>
+<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQF_K20p9ewHmg/profile-displaybackgroundimage-shrink_350_1400/0/1703619023237?e=1709164800&v=beta&t=_wwGgmB4kIv4jRrrxa0QOWxBCjgVs5SpUjZrSXZY4ZE"  alt=""/>
 
 ---
 

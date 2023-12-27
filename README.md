@@ -1,29 +1,26 @@
-> [!NOTE]
->  README en desarrollo contínuo...
-<br>
-
 <img width="100%" src="https://media.licdn.com/dms/image/D4D16AQF_K20p9ewHmg/profile-displaybackgroundimage-shrink_350_1400/0/1703619023237?e=1709164800&v=beta&t=_wwGgmB4kIv4jRrrxa0QOWxBCjgVs5SpUjZrSXZY4ZE"  alt=""/>
 
 ---
 
 <p align="center"><kbd>Visitas totales al perfil</kbd></p>
-<p align="center">   <img align="center" src="https://profile-counter.glitch.me/AlejandroSanchezMonzon/count.svg"  alt=""/></p> 
+<p align="center"> <img style="text-align: center;" src="https://profile-counter.glitch.me/AlejandroSanchezMonzon/count.svg"  alt="Visitors counter"/></p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=$+BACKEND;$+FRONTEND;$+TESTING;$+SOFTWARE+DEVELOPING;$+BIG+DATA;$+TEAM+WORK&color=00FF27&center=true&width=500&height=50" alt=""></a>
 </p>
- 
+
 # Alejandro Sánchez Monzón
-### Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 💻
+### Junior Software Developer 💻
 
-『❗』Hola, mi nombre es **Alejandro**. Actualmente me encuentro estudiando **Análisis de Datos y Procesos**, dentro del programa [BIGDATA+][bigdata], de la [Cámara de Comercio Alemana para España][camara]. 
+Junior Software Developer con gran capacidad de trabajo en equipo y con ambición por aprender y aportar en cualquier proyecto. Siempre abierto a nuevos **retos** y **desafíos**. Capacidad para **desarrollar**, **implantar**, **documentar** y **mantener** aplicaciones informáticas multiplataformas.
 
-La **informática**, y concretamente la **programación**, es un campo que me apasiona y en el cual tengo intención de desarrollarme y evolucionar de forma continua. Tratando de llegar al máximo nivel. 
+Experiencia previa en **diseño**, **implementación** y **testing** de APIs en **Java** y **Kotlin** en **Spring Boot** y **Ktor**. Actualmente trabajando en desarrollo front-end en **Angular** (varios proyectos de forma simultánea).
+
+Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara de Comercio Alemana para España**](camar), en colaboración con múltiples empresas de origen alemán dentro del sector de la informática.
 
 > [!IMPORTANT]
-> Cabe destacar que una persona nunca termina de conocer todas las tecnologías y lenguajes que maneja, es por ello que este README es una guía de conceptos y bases que conozco y con los que he trabajado en mayor o menor medida a lo largo de mi recorrido académico y profesional. 
+> Cabe destacar que una persona nunca termina de conocer todas las tecnologías que maneja, es por ello que este README es una guía de conceptos y bases trabajadas a lo largo de mi recorrido académico y profesional.
 
-<p align="center"> <img width="200px" src="https://i1.wp.com/boostingout.com/wp-content/uploads/2020/02/BoostingOut-gif-example-1.gif?resize=1080%2C1168&ssl=1"  alt=""/>
 <br>
 
 ## `Datos Personales`
@@ -31,150 +28,148 @@ La **informática**, y concretamente la **programación**, es un campo que me ap
 >
 >📅 21 años.
 >
->📌 Aranjuez, Madrid, España.
+>📌 Madrid, España.
 >
 >🏫 [CES Juan Pablo II][curso]
 >
->💼 [Hogrefe TEA Ediciones][website]
+>💼 [Hogrefe TEA Ediciones S.A.U][website]
 <br>
 
 ## `Experiencia`
-<img width="50px" title="TEA Ediciones" src="http://www.teaediciones.net/portal/recursos/Imagenes/Logos/logo_TEA_acceso.png" alt="logo-tea"/><b>Becario de IT</b> <kbd>Hogrefe TEA Ediciones</kbd>
+`Hogrefe TEA Ediciones | Intern Software Developer`
+>
+> * Desarrollo web de diversas páginas web para la empresa mediante tecnologías como **Angular**.
+>
+> * Diseño y manejo de bases de dato **Microsoft SQL Server**.
+>
+> * Llamada a **APIs** con núcleo en .NET.
+
 <br><br>
- 
+
 ## `Lenguajes en aprendizaje`
 <div align="center">
-<img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt=""/> &nbsp; 
-<img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" alt=""/> &nbsp; 
-<img width="50px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt=""/> &nbsp; 
-<img width="50px" title="HTML" src="https://i.imgur.com/4Pfb5Jn.png" alt=""/> &nbsp; 
-<img width="50px" title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt=""/> &nbsp; 
-<img width="50px" title="Markdown" src="https://css-tricks.com/wp-content/uploads/2016/01/choose-markdown.jpg" alt=""/> &nbsp;
-<img width="50px" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt=""/> &nbsp; 
-<img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png" alt=""/> &nbsp; 
-<img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt=""/> &nbsp;
-<img width="50px" title="Dart" src="https://img.icons8.com/color/480/dart.png" alt=""/> &nbsp;
-</div>
-<br>
-
-## `Tecnologías & Librerías` ##
-
-<div align="center">
-<img width="50px" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt=""/> &nbsp; 
-<img width="50px" title="npm" src="https://www.pngrepo.com/png/331509/512/npm.png" alt=""/> &nbsp;
-<img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt=""/> &nbsp;
-<img width="50px" title="H2" src="https://dbdb.io/media/logos/h2-logo.svg" alt=""/> &nbsp;
-<img width="50px" title="MongoDB" src="https://www.axonius.com/hubfs/mongodb_adapter.png" alt=""/> &nbsp;
-<img width="50px" title="KMongo" src="https://litote.org/kmongo/assets/images/kmongo.png" alt=""/> &nbsp;
-<img width="50px" title="Microsoft Server SQL" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png" alt=""/> &nbsp;
-<img width="50px" title="JUnit 5" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67"  alt=""/> &nbsp; 
-<img width="50px" title="Mockito" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Mockito_Junit_Tutorial.png" alt=""/> &nbsp; 
-<img width="50px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt=""/> &nbsp;
-  <br><br>
-<img width="50px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" alt=""/> &nbsp; 
-<img width="50px" title="Java Swing" src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png" alt=""/> &nbsp; 
-<img width="50px" title="Java FX" src="https://static.wikia.nocookie.net/jfx/images/0/00/JavaFXIsland400x200.png/revision/latest?cb=20070917150529" alt=""/> &nbsp; 
-<img width="50px" title="Hibernate JPA" src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" alt=""/> &nbsp; 
-<img width="50px" title="Exposed" src="https://i.imgur.com/5ImTuoT.png" alt=""/> &nbsp; 
-<img width="50px" title="Spring Data JPA" src="https://cdn-images-1.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" alt=""/> &nbsp;
-<img width="50px" title="Dagger" src="https://cdn-icons-png.flaticon.com/512/1067/1067718.png" alt=""/> &nbsp;
-<img width="50px" title="Koin" src="https://insert-koin.io/img/koin_new_logo.png" alt=""/> &nbsp;
-<img width="50px" title="Project Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" alt=""/> &nbsp;
-<img width="50px" title="Firebase" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png" alt=""/> &nbsp;
-  <br><br>
-<img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt=""/> &nbsp;
-<img width="50px" title="Retrofit" src="https://img.stackshare.io/service/2856/retrofit-logo.png" alt=""/> &nbsp;
-<img width="50px" title="Ktor" src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4" alt=""/> &nbsp;
-<img width="50px" title="JSON Serialization Libraries" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt=""/> &nbsp;
-<img width="50px" title="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt=""/> &nbsp;
-<img width="50px" title="NodeJS" src="https://midu.dev/images/tags/node.png" alt=""/> &nbsp;
-<img width="50px" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt=""/> &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="TypeScript" src="https://www.svgrepo.com/show/439022/typescript.svg" alt="TypeScript"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Java" src="https://www.svgrepo.com/show/452234/java.svg" alt="Java"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Kotlin" src="https://www.svgrepo.com/show/349431/kotlin.svg" alt="Kotlin"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Python" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="SQL" src="https://www.svgrepo.com/show/374093/sql.svg" alt="SQL"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="HTML" src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="CSS" src="https://www.svgrepo.com/show/373535/css.svg" alt="CSS"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Dart" src="https://www.svgrepo.com/show/353631/dart.svg" alt=""/>
 </div>
 
 <br>
 
-## `Manejo de Entornos`
+## `Tecnologías`
+
 <div align="center">
-<img width="50px" title="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt=""/> &nbsp; 
-<img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" alt=""/> &nbsp;
-<img width="50px" title="Fork" src="https://i.imgur.com/lHqM6qT.png" alt=""/> &nbsp;
-<img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico" alt=""/> &nbsp; 
-<img width="50px" title="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt=""/> &nbsp; 
-<img width="50px" title="Eclipse IDE" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt=""/> &nbsp; 
-<img width="50px" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt=""/> &nbsp; 
-<img width="50px" title="MySQL WorkBench 8.0 CE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/2048px-Antu_mysql-workbench.svg.png" alt=""/> &nbsp;
-<img width="50px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" alt=""/> &nbsp;
-<img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt=""/> &nbsp;
-  <br><br>
-<img width="50px" height="50px" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt=""/> &nbsp;
-<img width="50px" height="50px" title="Postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt=""/> &nbsp;
-<img width="50px" height="50px" title="AWS" src="https://aslan.es/wp-content/uploads/2020/02/AmazonAWS.png" alt=""/> &nbsp;
-</div> 
+    <img style="height: 3rem; object-fit: cover;" title="Git" src="https://www.svgrepo.com/show/452210/git.svg" alt="Git"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="SQLite" src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="SQLite"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="H2" src="https://dbdb.io/media/logos/h2-logo.svg" alt="H2"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="MongoDB" src="https://www.svgrepo.com/show/439231/mongodb.svg" alt="MongoDB"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Microsoft SQL Server" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png" alt="Microsoft SQL Server"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Firebase" src="https://www.svgrepo.com/show/373595/firebase.svg" alt="Firebase"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="JUnit 5" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67"  alt=""/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Mockito" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Mockito_Junit_Tutorial.png" alt=""/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Maven" src="https://www.svgrepo.com/show/373829/maven.svg" alt="Maven"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Gradle" src="https://www.svgrepo.com/show/353831/gradle.svg" alt="Gradle"/>
+    <br><br>
+    <img style="height: 3rem; object-fit: cover;" title="Hibernate JPA" src="https://www.svgrepo.com/show/353874/hibernate.svg" alt="Hibernate JPA"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Spring Boot" src="https://www.svgrepo.com/show/376350/spring.svg" alt="Spring Boot"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Ktor" src="https://avatars.githubusercontent.com/u/28214161?s=280&v=4" alt=""/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Docker" src="https://www.svgrepo.com/show/452192/docker.svg" alt="Docker"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="npm" src="https://www.svgrepo.com/show/439240/npm.svg" alt="npm"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Flutter" src="https://www.svgrepo.com/show/373604/flutter.svg" alt="Flutter"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Angular" src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular"/>
+    &nbsp;
+</div>
+
 <br>
 
-## `Manejo de Sistemas Operativos`
+## `Otros entornos`
 <div align="center">
-<img width="50px" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png"  alt=""/> &nbsp; 
-<img width="50px" title="Android" src="https://upload.wikimedia.org/wikipedia/commons/4/41/APK_format_icon_%282014-2019%29.png"  alt=""/> &nbsp; 
-<img width="50px" title="iOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/488px-Apple_logo_black.svg.png"  alt=""/> &nbsp;
-<img width="50px" title="Linux" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"  alt=""/> &nbsp; 
-</div> 
-<br> 
+    <img style="height: 3rem; object-fit: cover;" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Oracle VM VirtualBox"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" alt="Android Studio"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="PowerBI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="PowerBI"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Figma" src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman"/>
+    &nbsp;
+    <img style="height: 3rem; object-fit: cover;" title="Amazon Web Services" src="https://www.svgrepo.com/show/448266/aws.svg" alt="Amazon Web Services"/>
+    &nbsp;
+</div>
 
-## `Métodos de Contacto`
-> <img width="15px" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt=""/> &nbsp; alejandrosanchezmonzon1@gmail.com
->
-> <img width="15px" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt=""/> &nbsp; alejandro.sanchezm@cesjuanpablosegundo.es
-> 
-<img width="15px" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" alt=""/> &nbsp; [Twitter][twitter]
->
-<img width="15px" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt=""/> &nbsp; [LinkedIn][linkedin]
->
-<img width="15px" title="Web" src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-trazo-de-icono-de-sitio-web-de-internet.png" alt=""/> &nbsp; [Página Web][paginaweb]
->
-<img width="15px" title="Google Developer" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt=""/> &nbsp; [Google Developer Profile][gdev]
+<br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/alesm_z?color=black&label=%40alesm_z&logo=twitter&logoColor=black&style=for-the-badge)
+## `Contacto`
+> <img style="height: 1rem;" title="Gmail" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail"/> &nbsp; alejandrosanchezmonzon1@gmail.com
+>
+> <img style="height: 1rem;" title="Gmail" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail"/> &nbsp; alejandro.sanchezm@cesjuanpablosegundo.es
+>
+> * <a href="x.com/alesm_z">X</a>
+>
+> * <a href="linkedin.com/in/alejandrosm/">LinkedIn</a>
+>
+> * <a href="alejandrosanchezmonzon.github.io/">Portfolio</a>
+
 <br>
 
 ## `Títulos oficiales`
-- Graduado en ***Educación Secundaria Obligatoria***.
->
-- Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
->
-- Graduado en ***Desarrollo de Aplicaciones Multiplataforma***, en [IES Luis Vives][website].
+- Graduado en ***Ciclo Formativo Grado Superior. Desarrollo de Aplicaciones Multiplataforma***, en [***IES Luis Vives***][website].
 >
 - Título ***Cambridge First Certificate*** (Nivel B2).
 >
 - Diploma Honorífico ***[Fundación REPSOL][website2]*** a la innovación y el emprendimiento.
 >
-- Diploma ***"Vives la prevención" - modalidad vídeo***, en [IES Luis Vives][website].
+- Certificados proporcionados por ***[OpenWebinars][openwebinars]*** y ***[Open Bootcamp][openbootcamp]*** sobre diferentes tecnologías (listado en mi [***LinkedIn***][linkedin]).
 >
-- Certificados proporcionados por ***[OpenWebinars][openwebinars]*** y ***[Open Bootcamp][openbootcamp]*** sobre diferentes lenguajes y tecnologías (listado en mi [LinkedIn][linkedin]).
->
-- Certificado de Desarrollador Backend en Kotlin expirado por [JetBrains][jetbrains].
+- Certificado de Desarrollador **Backend** en Kotlin expirado por [***JetBrains***][jetbrains].
+
 <br>
 
 ## `GitHub Stats` ##
 
 <div align="center">
-
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroSanchezMonzon&show_icons=true&theme=dark)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSanchezMonzon&layout=compact&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSanchezMonzon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub followers](https://img.shields.io/github/followers/AlejandroSanchezMonzon?color=black&label=Seguidores&logo=GitHub&logoColor=black&style=for-the-badge)
-
-![GitHub User's stars](https://img.shields.io/github/stars/AlejandroSanchezMonzon?color=black&label=favoritos&logo=GitHub&logoColor=black&style=for-the-badge)
 </div>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
+<div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bfbfbf&height=120&section=footer"/>
 </div>
-  
+
 <!-- LINK -->
 [website]: https://web.teaediciones.com/Inicio.aspx
 [website2]: https://www.fundacionrepsol.com/es
@@ -183,10 +178,6 @@ La **informática**, y concretamente la **programación**, es un campo que me ap
 [camara]: https://www.ahk.es/es/
 [instituto]: alejandro.sanchez@alumno.iesluisvives.org
 [curso]: https://www.cesjuanpablosegundo.es/
-[twitter]: https://twitter.com/alesm_z
-[linkedin]: https://www.linkedin.com/in/alejandro-sánchez-monzón-017b88224
-[paginaweb]: https://alejandrosanchezmonzon.github.io
-[gdev]: https://g.dev/alejandrosanchezmonzon
 [openwebinars]: https://openwebinars.net
 [openbootcamp]: https://open-bootcamp.com/
 [jetbrains]: https://www.jetbrains.com/company/partners/kotlin/

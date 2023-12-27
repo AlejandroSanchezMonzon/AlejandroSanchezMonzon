@@ -131,11 +131,11 @@ Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara
 >
 > <img style="height: 1rem;" title="Gmail" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail"/> &nbsp; alejandro.sanchezm@cesjuanpablosegundo.es
 >
-> * <a href="x.com/alesm_z">X</a>
+> * <a href="https://x.com/alesm_z">X</a>
 >
-> * <a href="linkedin.com/in/alejandrosm/">LinkedIn</a>
+> * <a href="https://www.linkedin.com/in/alejandrosm/">LinkedIn</a>
 >
-> * <a href="alejandrosanchezmonzon.github.io/">Portfolio</a>
+> * <a href="https://alejandrosanchezmonzon.github.io/">Portfolio</a>
 
 <br>
 

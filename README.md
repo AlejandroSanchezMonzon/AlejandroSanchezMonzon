@@ -148,7 +148,9 @@ Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara
 >
 - Certificados proporcionados por ***[OpenWebinars][openwebinars]*** y ***[Open Bootcamp][openbootcamp]*** sobre diferentes tecnologías (listado en mi [***LinkedIn***][linkedin]).
 >
-- Certificado de Desarrollador **Backend** en Kotlin expirado por [***JetBrains***][jetbrains].
+- Certificado de Desarrollador **Backend** en Kotlin, expirado por [***JetBrains***][jetbrains].
+>
+- AWS Cloud Practitioner, expirado por [***Amazon Web Services***][aws].
 
 <br>
 
@@ -181,3 +183,4 @@ Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara
 [openwebinars]: https://openwebinars.net
 [openbootcamp]: https://open-bootcamp.com/
 [jetbrains]: https://www.jetbrains.com/company/partners/kotlin/
+[aws]: https://aws.amazon.com/es/certification/certified-cloud-practitioner/

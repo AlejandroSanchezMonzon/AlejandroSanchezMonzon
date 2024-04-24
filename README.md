@@ -1,4 +1,4 @@
-<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQGbZwbEk81V8A/profile-displaybackgroundimage-shrink_350_1400/0/1710937171268?e=1716422400&v=beta&t=M6sLVSZ3JXQc-m9-bmrcclCHbICaTE4R_OoyYlB4EW0"  alt=""/>
+<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQHlw1VvWGnvXA/profile-displaybackgroundimage-shrink_350_1400/0/1713943563156?e=1719446400&v=beta&t=T9tJ4NI7UAhigtxk6zIdT09Ez-V0z03ZEObbA-ubulk"  alt=""/>
 
 ---
 
@@ -10,9 +10,9 @@
 </p>
 
 # Alejandro Sánchez Monzón
-### Junior Software Developer 💻
+### Data Engineer/Scientist · Software Developer 💻
 
-Junior Software Developer con gran capacidad de trabajo en equipo y con ambición por aprender y aportar en cualquier proyecto. Siempre abierto a nuevos **retos** y **desafíos**. Capacidad para **desarrollar**, **implantar**, **documentar** y **mantener** aplicaciones informáticas multiplataformas.
+Técnico con gran capacidad de trabajo en equipo y con ambición por aprender y aportar en cualquier proyecto. Siempre abierto a nuevos **retos** y **desafíos**. Capacidad para **desarrollar**, **implantar**, **documentar** y **mantener** aplicaciones informáticas multiplataformas.
 
 Experiencia previa en **diseño**, **implementación** y **testing** de APIs en **Java** y **Kotlin** en **Spring Boot** y **Ktor**. Actualmente trabajando en desarrollo front-end en **Angular** (varios proyectos de forma simultánea).
 
@@ -29,8 +29,6 @@ Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara
 >📅 21 años.
 >
 >📌 Madrid, España.
->
->🏫 [CES Juan Pablo II][curso]
 >
 >💼 [Hogrefe TEA Ediciones S.A.U][website]
 <br>
@@ -178,8 +176,6 @@ Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara
 [correo]: alejandrosanchezmonzon1@gmail.com
 [bigdata]: https://www.ahk.es/es/servicios/formacion/proyecto-big-data-programa-dual-analisis-de-datos-y-procesos/proyecto-big-data-candidatos
 [camara]: https://www.ahk.es/es/
-[instituto]: alejandro.sanchez@alumno.iesluisvives.org
-[curso]: https://www.cesjuanpablosegundo.es/
 [openwebinars]: https://openwebinars.net
 [openbootcamp]: https://open-bootcamp.com/
 [jetbrains]: https://www.jetbrains.com/company/partners/kotlin/

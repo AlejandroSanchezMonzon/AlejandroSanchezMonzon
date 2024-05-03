@@ -60,7 +60,6 @@ Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara
     &nbsp;
     <img style="height: 3rem; object-fit: cover;" title="CSS" src="https://www.svgrepo.com/show/373535/css.svg" alt="CSS"/>
     &nbsp;
-    <img style="height: 3rem; object-fit: cover;" title="Dart" src="https://www.svgrepo.com/show/353631/dart.svg" alt=""/>
 </div>
 
 <br>
@@ -98,9 +97,9 @@ Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara
     &nbsp;
     <img style="height: 3rem; object-fit: cover;" title="npm" src="https://www.svgrepo.com/show/439240/npm.svg" alt="npm"/>
     &nbsp;
-    <img style="height: 3rem; object-fit: cover;" title="Flutter" src="https://www.svgrepo.com/show/373604/flutter.svg" alt="Flutter"/>
-    &nbsp;
     <img style="height: 3rem; object-fit: cover;" title="Angular" src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular"/>
+    &nbsp;
+<img style="height: 3rem; object-fit: cover;" title="Astro" src="https://www.svgrepo.com/show/373446/astro.svg" alt="Astro"/>
     &nbsp;
 </div>
 

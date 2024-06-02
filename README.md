@@ -29,12 +29,10 @@ Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara
 >📅 21 años.
 >
 >📌 Madrid, España.
->
->💼 [Hogrefe TEA Ediciones S.A.U][website]
 <br>
 
 ## `Experiencia`
-`Hogrefe TEA Ediciones | Intern Software Developer`
+`Hogrefe TEA Ediciones | Junior Software Developer (2023-2024)`
 >
 > * Desarrollo web de diversas páginas web para la empresa mediante tecnologías como **Angular**.
 >
@@ -170,7 +168,6 @@ Estudiante del proyecto [**BIGDATA +**](bigdata), administrado por la [**Cámara
 </div>
 
 <!-- LINK -->
-[website]: https://web.teaediciones.com/Inicio.aspx
 [website2]: https://www.fundacionrepsol.com/es
 [correo]: alejandrosanchezmonzon1@gmail.com
 [bigdata]: https://www.ahk.es/es/servicios/formacion/proyecto-big-data-programa-dual-analisis-de-datos-y-procesos/proyecto-big-data-candidatos
